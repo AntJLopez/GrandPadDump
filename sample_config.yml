@@ -1,0 +1,6 @@
+# Rename to "config.yml"
+
+email: YOUR_EMAIL_ADDRESS                 # GrandPad account email address
+password: YOUR_PASSWORD                   # GrandPad account password
+api_url: https://giraffe-v3.grandpad.net  # This should probably not change
+media_folder: 'media'                     # Where media downloads are stored
